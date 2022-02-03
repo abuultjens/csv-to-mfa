@@ -1,5 +1,5 @@
 # csv-to-mfa
-Converts csv (long) to multifasta alignment
+Converts csv with binary allele data (long) to multifasta alignment. If using AGCT data, use AGCT-csv_to_mfa.
 
 # Author
 Andrew Buultjens
